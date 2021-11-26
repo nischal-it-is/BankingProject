@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+G:\Banking\.metadata\.plugins\org.eclipse.jdt.core
+2367658571.index
+1770836303.index

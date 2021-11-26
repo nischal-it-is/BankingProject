@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+G:\Banking\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3678515726.index
+2258153336.index
+1783950316.index
+1995998410.index
